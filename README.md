@@ -3,7 +3,7 @@ Sol Airdrop is a simple web application that allows users to check if a Solana a
 
 <h1>Getting Started</h1>
 <ol>
-<li>To use this application, you need to have a web browser and a Solana address. If you do not have a Solana address, you can create one using a Solana wallet like Sollet.io.</li>
+<li>To use this application, you need to have a web browser and a Solana address. If you do not have a Solana address, you can create one using a Solana wallet like Backpack.app.</li>
 
 <li>Once you have a Solana address, you can start using this application by following these steps:</li>
 
