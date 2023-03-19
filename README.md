@@ -1,5 +1,5 @@
 <h1>Sol Airdrop</h1>
-Sol Airdrop is a simple web application that allows users to check if a Solana address has received any airdrops. The application retrieves the transaction history for the specified address and checks if any of the transactions are airdrops. If an airdrop is found, the application displays the amount of the airdrop and the current USD value based on the current market price of Solana.
+Sol Airdrop is a simple web application that allows users to Airdrop SOL to Devnet addresses, using a Solana Address. 
 
 <h1>Getting Started</h1>
 <ol>
