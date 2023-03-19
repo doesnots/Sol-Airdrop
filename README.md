@@ -10,11 +10,10 @@ Sol Airdrop is a simple web application that allows users to check if a Solana a
 <ul>  
   <li>Open the Sol Airdrop website: https://doesnots.github.io/Sol-Airdrop/</li>
 
-  <li>Enter the Solana address you want to check and click "Search".</li>
+  <li>Enter the Solana address you want to transfer SOL to and enter the amount of SOL.</li>
 
-  <li>Wait for the application to retrieve the transaction history and check for airdrops.</li>
+  <li>Wait for the application to transfer SOL successfully.</li>
 
-<li>If an airdrop is found, the application will display the amount of the airdrop and the current USD value based on the current market price of Solana.</li>
 </ul>  
 <li>Transactions can also be seen on Solana Explorer: https://explorer.solana.com/?cluster=devnet using Solana address. (Devnet)</li>  
 </ol>  
